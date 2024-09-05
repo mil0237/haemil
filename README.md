@@ -1,2 +1,2 @@
 # I am Haemil Kim.
-I like*LCK* 
+I like *cat* 
